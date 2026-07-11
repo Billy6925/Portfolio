@@ -17,7 +17,7 @@ export default function Home(){
                         <li>✓ Integrate payment solutions such as M-PESA</li>
                     </ul>
 
-                    <section className="d-flex flex-column flex-sm-row gap-2 mt-4">
+                    <section className="justify-content-between">
                         <a href="/resume/resume.pdf" target="_blank" rel="noopener noreferrer" className="btn btn-success mx-2">Download Resume</a>
                         <Link to="/contact" className="btn btn-secondary m-2">Contact Me</Link>
                     </section>
