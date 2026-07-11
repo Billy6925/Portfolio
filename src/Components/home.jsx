@@ -24,7 +24,7 @@ export default function Home(){
                 </div>
 
                 <div className="col-4 col-lg-5 text-center">
-                    <img src="/videos/billy.jpeg" alt="Billy Eskein" style={{maxWidth:"210px", width:"100%"}} className="img-fluid border border-success rounded-3 shadow-lg"/>
+                    <img src="/videos/billy.jpeg" alt="Billy Eskein" style={{maxWidth:"240px", width:"100%"}} className="img-fluid border border-success rounded-3 shadow-lg"/>
                 </div>
 
             </div>
